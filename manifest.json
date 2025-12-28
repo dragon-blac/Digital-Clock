@@ -1,0 +1,11 @@
+{
+  "name": "digital-clock",
+  "version": "1.0.0",
+  "author": "Dragon-Black Community",
+  "description": "Plugin de prueba para verificar la funcionalidad del repositorio de plugins",
+  "source": "https://github.com/dragon-blac/digital-clock.git",
+  "git_url": "https://github.com/dragon-blac/digital-clock.git",
+  "main": "plugin.py",
+  "command": "digital",
+  "default_function": "main"
+}
